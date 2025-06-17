@@ -4,9 +4,9 @@
 - 
   Expertise:
    - DevOps & Cloud Technologies
-  -Web Development: Proficient in HTML, CSS, JavaScript, and frameworks like Tailwind CSS for building responsive web applications. 🌐
-   -Tech Stack: Experienced in C, C++, and Java. Proficient with development tools like, Git, Postman, VS Code, and more. 🛠️
-   -Game Development Experience: Background in creating 2D and 3D games using Unity and Godot engine. 🎮
+  -  Web Development: Proficient in HTML, CSS, JavaScript, and frameworks like Tailwind CSS for building responsive web applications. 🌐
+ -   Tech Stack: Experienced in C, C++, and Java. Proficient with development tools like, Git, Postman, VS Code, and more. 🛠️
+    -  Game Development Experience: Background in creating 2D and 3D games using Unity and Godot engine. 🎮
 
  Achievements:
  - Led team to top 50 in Global Game Jam. 🏆
