@@ -10,7 +10,6 @@
 
  Achievements:
  - Led team to top 50 in Global Game Jam. 🏆
-- Secured 5rd place in Ideathon for AI-integrated health data integration concept. 🥉
 - Attained the 25th position in Code Vista 4.0 competition. 🏅
  Extracurricular Activities:
 - Design Lead at Programming Ethics and Ethical Hacking Club, focusing on fostering ethical practices in technology. 🛡️
